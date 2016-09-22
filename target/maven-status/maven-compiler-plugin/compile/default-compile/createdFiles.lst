@@ -1,0 +1,7 @@
+com/smartbics/springdata/model/Operation.class
+com/smartbics/springdata/model/Person.class
+com/smartbics/springdata/model/CreditCard.class
+com/smartbics/springdata/repositories/PersonRepositoryCustom.class
+com/smartbics/springdata/config/AppConfig.class
+com/smartbics/springdata/repositories/PersonRepositoryImpl.class
+com/smartbics/springdata/repositories/PersonRepository.class

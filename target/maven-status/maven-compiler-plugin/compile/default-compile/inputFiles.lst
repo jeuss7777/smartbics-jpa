@@ -1,0 +1,7 @@
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/config/AppConfig.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/repositories/PersonRepositoryImpl.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/model/Operation.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/repositories/PersonRepository.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/repositories/PersonRepositoryCustom.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/model/Person.java
+/home/jarana/workspace_SpringBoot/spring-data-jpa-demo/src/main/java/com/smartbics/springdata/model/CreditCard.java

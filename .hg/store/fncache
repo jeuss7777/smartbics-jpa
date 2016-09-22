@@ -1,0 +1,16 @@
+data/src/test/java/com/smartbics/springdata/repositories/PersonRepositoryTest.java.i
+data/src/test/resources/META-INF/database.xml.i
+data/.hgeol.i
+data/src/main/java/com/smartbics/springdata/repositories/PersonRepositoryImpl.java.i
+data/src/main/java/com/smartbics/springdata/model/Person.java.i
+data/pom.xml.i
+data/src/main/java/com/smartbics/springdata/SpringDataJPADemo.java.i
+data/src/main/java/com/smartbics/springdata/model/CreditCard.java.i
+data/src/main/java/com/smartbics/springdata/config/AppConfig.java.i
+data/.hgignore.i
+data/src/main/java/com/smartbics/springdata/model/Operation.java.i
+data/src/main/java/com/smartbics/springdata/repositories/PersonRepositoryCustom.java.i
+data/src/test/resources/log4j.properties.i
+data/README.md.i
+data/src/main/resources/log4j.properties.i
+data/src/main/java/com/smartbics/springdata/repositories/PersonRepository.java.i

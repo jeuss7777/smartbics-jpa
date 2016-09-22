@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <PERSON id="1" name="Morgan Freeman"/>
+    <PERSON id="2" name="Tom Hanks"/>
+    <PERSON id="3" name="Hugh Jackman"/>
+    <PERSON id="4" name="Tom Cruise"/>
+
+    <CREDITCARD id="1" person_id="1" number="1234"/>
+    <CREDITCARD id="2" person_id="1" number="5678"/>
+    <CREDITCARD id="3" person_id="2" number="9874"/>
+    <CREDITCARD id="4" person_id="3" number="2233"/>
+    <CREDITCARD id="5" person_id="4" number="2233"/>
+
+    <OPERATION id="1" creditcard_id="1" amount="15.0"/>
+    <OPERATION id="2" creditcard_id="1" amount="50.0"/>
+    <OPERATION id="3" creditcard_id="2" amount="15.0"/>
+    <OPERATION id="4" creditcard_id="3" amount="75.0"/>
+    <OPERATION id="5" creditcard_id="5" amount="15.0"/>
+    <OPERATION id="6" creditcard_id="5" amount="20.0"/>
+
+</dataset>
